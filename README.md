@@ -2,8 +2,6 @@
 
 Formação em "Processos Gerenciais" e atualmente cursando "Sistemas de Informação", atualmente trabalho no setor de Qualidade com foco em capacitações e otimização de processos. Possuo uma sólida base em gestão estratégica e melhoria contínua com conhecimentos práticos em tecnologia, incluindo desenvolvimento web e análise de dados, buscando uma oportunidade para aplicar essa visão sistêmica em projetos inovadores na área de TI.
 
-<hr style="border: none; height: 1px; background-color: #e1e4e8; margin: 30px 0;" />
-
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
